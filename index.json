@@ -11,7 +11,7 @@
         "id": "Animals-En",
         "name": "Животные",
         "description": "Животные",
-        "wordsCount": 114,
+        "wordsCount": 118,
         "category": "english",
         "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/Animals.json"
       }
