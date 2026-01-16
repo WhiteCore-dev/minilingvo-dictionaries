@@ -1,0 +1,19 @@
+  {
+    "version": "1.0",
+    "categories": [
+      {
+        "id": "english",
+        "name": "Английский язык"
+      }
+    ],
+    "dictionaries": [
+      {
+        "id": "Animals-En",
+        "name": "Животные",
+        "description": "Животные",
+        "wordsCount": 114,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/dictionaries/english/Animals.json"
+      }
+    ]
+  }
