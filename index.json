@@ -8,12 +8,100 @@
     ],
     "dictionaries": [
       {
-        "id": "Animals-En",
-        "name": "Животные",
-        "description": "Животные",
-        "wordsCount": 118,
+        "id": "Animals-EnRu",
+        "name": "Животные En/Ru",
+        "description": "Англо-русский словарь по теме животных: домашние и дикие виды, среда обитания, части тела и характерные действия.",
+        "wordsCount": 114,
         "category": "english",
-        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/Animals.json"
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/Animals-EnRu.json"
+      },
+      {
+        "id": "Adjectives-EnRu",
+        "name": "Прилагательные EnRu",
+        "description": "Базовые английские прилагательные для описания предметов, людей и состояний.",
+        "wordsCount": 72,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/Adjectives-EnRu.json"
+      },
+      {
+        "id": "DailyLife-EnRu",
+        "name": "Повседневная речь EnRu",
+        "description": "Базовые слова и выражения английского языка для повседневного общения.",
+        "wordsCount": 62,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/DailyLife-En/Ru.json"
+      },
+      {
+        "id": "Dictionaries-8027-EnRu",
+        "name": "Dictionaries 8027 EnRu",
+        "description": "Большой англо-русский словарь: 8027 слов",
+        "wordsCount": 8027,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/Dictionaries-8027-EnRu.json"
+      },
+      {
+        "id": "ElectronicsAndDevices-EnRu",
+        "name": "Электроника и устройства EnRu",
+        "description": "Слова и выражения по теме электроники, гаджетов и бытовых устройств.",
+        "wordsCount": 82,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/ElectronicsAndDevices-EnRu.json"
+      },
+      {
+        "id": "EmotionsAndCommunication-EnRu",
+        "name": "Эмоции и общение EnRu",
+        "description": "Слова и выражения для описания эмоций, чувств и общения на английском языке.",
+        "wordsCount": 86,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/EmotionsAndCommunication-EnRu.json"
+      },
+      {
+        "id": "FoodDrinks-EnRu",
+        "name": "Еда и напитки EnRu",
+        "description": "Слова и выражения по теме еды, напитков и питания.",
+        "wordsCount": 98,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/FoodDrinks-EnRu.json"
+      },
+      {
+        "id": "HealthAndMedicine-EnRu",
+        "name": "Здоровье и медицина EnRu",
+        "description": "Слова и выражения по теме здоровья, медицины и обращения за медицинской помощью.",
+        "wordsCount": 84,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/HealthAndMedicine-EnRu.json"
+      },
+      {
+        "id": "PhrasalVerbs-EnRu",
+        "name": "Фразовые глаголы EnRu",
+        "description": "Словарь наиболее употребимых фразовых глаголов английского языка с переводом на русский язык.",
+        "wordsCount": 70,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/PhrasalVerbs-EnRu.json"
+      },
+      {
+        "id": "PlacesAndLocations-EnRu",
+        "name": "Места и локации EnRu",
+        "description": "Лексика для ориентации в городе и путешествий: места, здания, природа и пространственные выражения.",
+        "wordsCount": 64,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/PlacesAndLocations-EnRu.json"
+      },
+      {
+        "id": "TravelAndTransport-EnRu",
+        "name": "Путешествия и транспорт EnRu",
+        "description": "Лексика для путешествий: аэропорты, вокзалы, транспорт, отели и ориентирование в городе.",
+        "wordsCount": 84,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/TravelAndTransport-EnRu.json"
+      },
+      {
+        "id": "VerbsOfMotion-EnRu",
+        "name": "Глаголы движения EnRu",
+        "description": "Словарь глаголов движения и перемещения",
+        "wordsCount": 65,
+        "category": "english",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/VerbsOfMotion-EnRu.json"
       }
     ]
   }

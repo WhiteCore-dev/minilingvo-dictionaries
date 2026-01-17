@@ -1,0 +1,82 @@
+{
+  "name": "Глаголы движения EnRu",
+  "words": [
+    { "word": "go", "translation": "идти / ехать" },
+    { "word": "come", "translation": "приходить / приезжать" },
+    { "word": "leave", "translation": "уходить / уезжать" },
+    { "word": "arrive", "translation": "прибывать" },
+    { "word": "return", "translation": "возвращаться" },
+
+    { "word": "walk", "translation": "идти пешком" },
+    { "word": "run", "translation": "бежать" },
+    { "word": "jog", "translation": "бегать трусцой" },
+    { "word": "step", "translation": "шагать" },
+    { "word": "march", "translation": "маршировать" },
+    { "word": "stroll", "translation": "прогуливаться" },
+    { "word": "wander", "translation": "бродить" },
+
+    { "word": "move", "translation": "двигаться" },
+    { "word": "stop", "translation": "останавливаться" },
+    { "word": "start", "translation": "начинать движение" },
+    { "word": "turn", "translation": "поворачивать" },
+    { "word": "follow", "translation": "следовать" },
+    { "word": "lead", "translation": "вести" },
+
+    { "word": "enter", "translation": "входить" },
+    { "word": "exit", "translation": "выходить" },
+    { "word": "approach", "translation": "приближаться" },
+    { "word": "reach", "translation": "достигать" },
+    { "word": "pass", "translation": "проходить мимо" },
+    { "word": "cross", "translation": "пересекать" },
+
+    { "word": "climb", "translation": "карабкаться / подниматься" },
+    { "word": "descend", "translation": "спускаться" },
+    { "word": "fall", "translation": "падать" },
+    { "word": "jump", "translation": "прыгать" },
+    { "word": "hop", "translation": "подпрыгивать" },
+    { "word": "leap", "translation": "перепрыгивать" },
+
+    { "word": "crawl", "translation": "ползти" },
+    { "word": "slide", "translation": "скользить" },
+    { "word": "roll", "translation": "катиться" },
+    { "word": "slip", "translation": "скользнуть" },
+
+    { "word": "drive", "translation": "ехать за рулем" },
+    { "word": "ride", "translation": "ехать (пассажиром / верхом)" },
+    { "word": "travel", "translation": "путешествовать" },
+    { "word": "commute", "translation": "ездить на работу" },
+
+    { "word": "fly", "translation": "лететь" },
+    { "word": "land", "translation": "приземляться" },
+    { "word": "take off", "translation": "взлетать" },
+
+    { "word": "swim", "translation": "плавать" },
+    { "word": "dive", "translation": "нырять" },
+    { "word": "float", "translation": "плавать на поверхности" },
+    { "word": "sink", "translation": "тонуть" },
+
+    { "word": "carry", "translation": "нести" },
+    { "word": "bring", "translation": "приносить" },
+    { "word": "take", "translation": "уносить / брать с собой" },
+    { "word": "drag", "translation": "тащить" },
+    { "word": "push", "translation": "толкать" },
+    { "word": "pull", "translation": "тянуть" },
+    { "word": "lift", "translation": "поднимать" },
+    { "word": "drop", "translation": "ронять" },
+
+    { "word": "escape", "translation": "убегать" },
+    { "word": "chase", "translation": "преследовать" },
+    { "word": "catch", "translation": "ловить" },
+    { "word": "follow behind", "translation": "идти следом" },
+
+    { "word": "go up", "translation": "подниматься" },
+    { "word": "go down", "translation": "спускаться" },
+    { "word": "go back", "translation": "возвращаться" },
+    { "word": "go forward", "translation": "двигаться вперед" },
+    { "word": "go away", "translation": "уходить прочь" },
+
+    { "word": "move slowly", "translation": "двигаться медленно" },
+    { "word": "move fast", "translation": "двигаться быстро" },
+    { "word": "stand still", "translation": "стоять неподвижно" }
+  ]
+}
