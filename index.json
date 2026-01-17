@@ -4,6 +4,10 @@
       {
         "id": "english",
         "name": "Английский язык"
+      },
+      {
+        "id": "deutsch",
+        "name": "Немецкий язык"
       }
     ],
     "dictionaries": [
@@ -102,6 +106,17 @@
         "wordsCount": 65,
         "category": "english",
         "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/english/VerbsOfMotion-EnRu.json"
+      },
+
+
+
+      {
+        "id": "Animals-DeRu",
+        "name": "Животные DeRu",
+        "description": "Немецко-русский словарь по теме животных: домашние и дикие виды, среда обитания, части тела и характерные действия.",
+        "wordsCount": 65,
+        "category": "deutsch",
+        "url": "https://raw.githubusercontent.com/WhiteCore-dev/minilingvo-dictionaries/main/dictionaries/deutsch/Animals-DeRu.json"
       }
     ]
   }
